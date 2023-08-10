@@ -2,7 +2,7 @@
 
 /* Main navigation buttons */
 .button a {
-  color: var(--gray1200);
+  color: var(--gray100);
   font-size: var(--step-1);
   display: inline-block;
   text-decoration: none;
@@ -11,7 +11,7 @@
 .button a:hover,
 .button a:focus,
 .button a:active {
-  color: var(--gray1100);
+  color: var(--gray600);
   text-decoration: underline;
   text-decoration-thickness: max(0.15em, 1px);
 }
